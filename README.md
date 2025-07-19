@@ -181,3 +181,7 @@ This real-time chat app demonstrates the power of WebSockets for instant communi
 So, Have a try!
 
 # OUTPUT
+
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/7c84fe9c-e93a-4d81-af23-68d65786e332" />
+
+
