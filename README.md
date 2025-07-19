@@ -42,8 +42,6 @@ So this is my 2nd task, This is a real-time chat application built using Node.js
 
      - All the messages are displayed with the sender’s username.
 
-     - There is distinct styling for sent vs. received messages.
-
 3. Active User Count -
 
      - Displays the number of online users in real-time.
