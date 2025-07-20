@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# Project Description :
+# Project Description 
 
 So this is my 2nd task, This is a real-time chat application built using Node.js, Express, and Socket.io which allows multiple users to communicate instantly at a time in a shared chat room. 
 
@@ -54,7 +54,7 @@ So this is my 2nd task, This is a real-time chat application built using Node.js
 
      - Clean and intuitive design with a dark theme.
 
-# Technologies Used :
+# Technologies Used 
 
 *Frontend* :
 
@@ -78,7 +78,7 @@ So this is my 2nd task, This is a real-time chat application built using Node.js
 
 - Outside the public folder and inside the chat-app folder we have three more folders - server.js, package.json, package-lock.json.
 
-# Setup & Installation :
+# Setup & Installation 
  
 Prerequisites -
 
@@ -106,7 +106,7 @@ Start the server
     
 Open browser and Visit `http://localhost:3000` in your browser.
 
-# How It Works :
+# How It Works 
 
 1. Server-Side (Node.js + Socket.io)
 
