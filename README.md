@@ -1,4 +1,4 @@
-# *Chat-app*
+# Chat-app
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
