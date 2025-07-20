@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-*Project Description* :
+# *Project Description* :
 
 So this is my 2nd task, This is a real-time chat application built using Node.js, Express, and Socket.io which allows multiple users to communicate instantly at a time in a shared chat room. 
 
