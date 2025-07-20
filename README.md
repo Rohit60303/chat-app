@@ -74,7 +74,7 @@ So this is my 2nd task, This is a real-time chat application built using Node.js
 
 *Project Structure* :
 
-- We create a folder named chat-app, inside this folder we create aother folder named public and this public folder contains index.hmtl, script.js, style.css.
+- We create a folder named chat-app, inside this folder we create another folder named public and this public folder contains index.hmtl, script.js, style.css.
 
 - Outside the public folder and inside the chat-app folder we have three more folders - server.js, package.json, package-lock.json.
 
